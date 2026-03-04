@@ -9,7 +9,6 @@
 Building scalable web systems with clean architecture and modern technologies.
 Passionate about crafting digital experiences that are fast, elegant, and impactful.
 </p>
-
 </div>
 
 ---
@@ -28,7 +27,7 @@ Passionate about crafting digital experiences that are fast, elegant, and impact
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zeronull545&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=0d1117"/>
 
 </div>
