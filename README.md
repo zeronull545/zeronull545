@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nama%20Kamu&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Zeronull&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <h2 style="color:#a855f7;">Full Stack Developer • Tech Architect • Problem Solver</h2>
 
