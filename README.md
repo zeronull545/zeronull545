@@ -1,29 +1,62 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Zeronull&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<h1 class="text-4xl font-bold">Hi 👋, I'm Zeronull</h1>
+<p class="text-lg text-gray-500">Full Stack Developer | Tech Explorer | Problem Solver</p>
 
-<h2 style="color:#a855f7;">Full Stack Developer • Tech Architect • Problem Solver</h2>
+<img src="https://avatars.githubusercontent.com/u/zeronull545?v=4" 
+     width="150" 
+     style="border-radius: 50%; border: 4px solid #0ea5e9; margin-top: 20px;" />
 
-<p style="color:#9ca3af; max-width:600px; margin-top:15px;">
-Building scalable web systems with clean architecture and modern technologies.
-Passionate about crafting digital experiences that are fast, elegant, and impactful.
-</p>
 </div>
 
 ---
 
-## ⚡ Tech Arsenal
+## 🚀 About Me
+
+- 🔭 Currently working on: **Modern Web Apps**
+- 🌱 Currently learning: **Cloud & System Design**
+- 💡 Passionate about: **Clean Code & Scalable Architecture**
+- ⚡ Fun fact: I debug more than I sleep
+
+---
+
+## 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,python,tailwind,docker,postgres,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,python,tailwind,git,docker" />
 
 </div>
 
-## 🧠 Currently
+---
 
-```bash
-> Building: Scalable Web Applications
-> Learning: Distributed Systems & Cloud Architecture
-> Exploring: AI Integration & DevOps Automation
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zeronull545&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=zeronull545NAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:jeky545@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ "Build. Break. Learn. Repeat."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:9333ea&height=120&section=footer"/>
+
+</div>
